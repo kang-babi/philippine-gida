@@ -1,0 +1,19 @@
+{
+    "name": "kang-babi/philippine-gida",
+    "description": "Php-based List of Barangays under GIDA in the Philippines",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KangBabi\\PhGida\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kang-babi",
+            "email": "joshuabuban.benosa@bicol-u.edu.ph"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
